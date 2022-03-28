@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jacekwalaszek
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on anything to do with JavaScript
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, SQL, C#
+- 💞️ I’m looking to collaborate on anything to do with programing in C#
 - 📫 How to reach me: w.jacek99@gmail.com
 
 <!---
